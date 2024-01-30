@@ -1,4 +1,4 @@
-# Hi, I'm Christiane Rodrigues Dias!✨
+# Bem-vindos ao portfólio da Christiane Rodrigues Dia!✨
 
 <!--
 **Chrissoka/Chrissoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
